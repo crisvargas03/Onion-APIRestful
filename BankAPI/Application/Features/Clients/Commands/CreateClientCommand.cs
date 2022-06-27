@@ -14,9 +14,9 @@ namespace Application.Features.Clients.Commands
     }
     public class CreteClientCommandHandler : IRequestHandler<CreateClientCommand, Response<int>>
     {
-        public async Task<Response<int>> Handle(CreateClientCommand request, CancellationToken cancellationToken)
+        public Task<Response<int>> Handle(CreateClientCommand request, CancellationToken cancellationToken)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

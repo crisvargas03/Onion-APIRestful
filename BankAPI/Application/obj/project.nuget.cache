@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/WUctOYOkc8lE87DZG4P7r5NCUKUfxRy11HPmPAX/fqnqZf1KwB3r1EP0yReQbtgBtZnnBHZ4x02oixzt10arg==",
+  "dgSpecHash": "fTaJNmx6eb4JSzaIHy8LKKpX63kiOsurMtlVboEcFKfIHvbcDojXpPn4gxUVnkLQ51cePJXy1/WVqCKBK+CQOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\civar\\Desktop\\workspace\\Onion-APIRestful\\BankAPI\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\civar\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512",
     "C:\\Users\\civar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\civar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\civar\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
