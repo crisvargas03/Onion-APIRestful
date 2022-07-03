@@ -20,6 +20,11 @@
             Message = message;
         }
 
+        public Response(int value)
+        {
+
+        }
+
         public bool? Succeded { get; set; }
         public string? Message { get; set; }
         public List<string>? Errors { get; set; }

@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cvargas\\Desktop\\CIV\\Onion-APIRestful\\Onion-APIRestful-dev\\BankAPI\\BankWebAPI\\BankWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cvargas\\Desktop\\CIV\\Onion-APIRestful\\Onion-APIRestful-dev\\BankAPI\\BankWebAPI\\BankWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cvargas\\Desktop\\CIV\\Onion-APIRestful\\Onion-APIRestful-dev\\BankAPI\\BankWebAPI\\BankWebAPI.csproj",
+        "projectName": "BankWebAPI",
+        "projectPath": "C:\\Users\\cvargas\\Desktop\\CIV\\Onion-APIRestful\\Onion-APIRestful-dev\\BankAPI\\BankWebAPI\\BankWebAPI.csproj",
+        "packagesPath": "C:\\Users\\cvargas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cvargas\\Desktop\\CIV\\Onion-APIRestful\\Onion-APIRestful-dev\\BankAPI\\BankWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cvargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.migracion.gob.do/MIGRACION/_packaging/DGM_NUGET_PACKAGES%40Local/nuget/v3/index.json": {},
+          "https://tfs-new.migracion.gob.do/DefaultCollection/TARTAROS-branch/_versionControl": {},
+          "https://tfs-new.migracion.gob.do/YGGDRASIL/_packaging/dgmNugetFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

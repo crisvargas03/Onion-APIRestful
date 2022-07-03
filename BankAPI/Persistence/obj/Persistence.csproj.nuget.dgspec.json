@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\civar\\Desktop\\workspace\\Onion-APIRestful\\BankAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\civar\\Desktop\\workspace\\Onion-APIRestful\\BankAPI\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
